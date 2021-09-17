@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sagabegins&count_private=true&theme=tokyonight&showicons=true)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sagabegins&langs_count=6&theme=tokyonight)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sagabegins&hide=html,makefile&langs_count=10&theme=tokyonight&layout=compact)
 
 <!--
 **SagaBegins/SagaBegins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
